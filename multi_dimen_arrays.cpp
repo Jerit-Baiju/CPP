@@ -5,9 +5,8 @@ using namespace std;
 int main()
 {
     string letters[2][4] = {
-        {"A","B","C","D"},
-        {"E","F","G","H"}
-    };
+        {"A", "B", "C", "D"},
+        {"E", "F", "G", "H"}};
     cout << letters[0][3];
 
     // cout << sizeof(letters);
